@@ -1,6 +1,6 @@
 # Integrating LSTM-Based Sales Forecasting and RFM Customer Segmentation to Enhance E-Commerce Business Strategies 
 
-**Dataset*** : The dataset is taken from pa ublic dataset with the title eCommerce Events History in Cosmetics Shop (https://www.kaggle.com/code/mariaig94/e-commerce-events-in-cosmetic-store). The dataset includes historical data on user interactions in online cosmetics stores from October 2019 to February 2020. The historical data is stored in five csv files separated by the month of the event.
+**Dataset*** : The dataset is taken from a public dataset with the title eCommerce Events History in Cosmetics Shop (https://www.kaggle.com/code/mariaig94/e-commerce-events-in-cosmetic-store). The dataset includes historical data on user interactions in online cosmetics stores from October 2019 to February 2020. The historical data is stored in five csv files separated by the month of the event.
 
 **Background**: In today's digital age, customer behavior in e-commerce is a major focus for companies to improve customer experience and profitability. This is significant because the primary goal of raising the company's profit is to maximize the percentage of revenue. However, in real cases, very few customers make purchases compared to the overall events that occur in e-commerce.
 
